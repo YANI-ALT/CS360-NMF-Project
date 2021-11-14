@@ -9,5 +9,7 @@ Built with
 ## Usage
 The repo contains a presentations and project report with explanation of Non-Negative Factorisation in detail. 
 
-
-
+`NMF_Algorithm_implementations.ipynb` : Contains Algorithms Implementations in python.
+`NMF_library_implementation.ipynb` : Using library functions we use movie plot data to demonstrate an application.
+`Topic_coherence_calculator.ipynb` : Contains calculation for topic coherence.
+`Data_Preprocessing.ipynb` : Data preprocessing for movie plot data.
