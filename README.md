@@ -13,3 +13,5 @@ The repo contains a presentations and project report with explanation of Non-Neg
 * `NMF_library_implementation.ipynb` : Using library functions we use movie plot data to demonstrate an application.
 * `Topic_coherence_calculator.ipynb` : Contains calculation for topic coherence.
 * `Data_Preprocessing.ipynb` : Data preprocessing for movie plot data.
+
+* Datasets-1 : Contains datasets used in `NMF_Algorithm_implementations.ipynb` for applications on images (faces) and text.
