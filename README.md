@@ -3,6 +3,12 @@ The repo contains material and code for the topic of Non-Negative Matrix factori
 
 ## References 
 
+* Lee, D., Seung, H.: Learning the Parts of Objects by Nonnegative Matrix Factorization. Nature 401,
+788–791 (1999)
+*  Lee, D., Seung, H.: Algorithms for Non-negative Matrix Factorization. In Advances in Neural Information
+Processing (NIPS ’01) 13 (2001)
+* Gillis, Nicolas. (2014). The Why and How of Nonnegative Matrix Factorization. Regularization, Optimization, Kernels, and Support Vector Machines. 12. 
+* Matrix Methods in Data Mining and Pattern Recognition by Lars Elden
 
 
 
